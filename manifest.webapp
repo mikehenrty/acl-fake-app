@@ -2,7 +2,6 @@
   "name": "ACL-Faker",
   "description": "A fake app to test for acl installation",
   "launch_path": "index.html",
-  "package_path": "application.zip",
   "type": "privileged",
   "icons": {
     "128": "icons/128.png"
