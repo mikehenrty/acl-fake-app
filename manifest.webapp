@@ -5,5 +5,10 @@
   "type": "privileged",
   "icons": {
     "128": "icons/128.png"
+  },
+  "permissions": {
+    "external-app": {
+      "description": "For testing ACL layer"
+    }
   }
 }
